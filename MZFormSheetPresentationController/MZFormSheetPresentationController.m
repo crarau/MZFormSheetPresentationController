@@ -31,7 +31,7 @@
 
 CGFloat const MZFormSheetPresentationControllerDefaultAnimationDuration = 0.35;
 
-static CGFloat const MZFormSheetPresentationControllerDefaultAboveKeyboardMargin = 20;
+static CGFloat const MZFormSheetPresentationControllerDefaultAboveKeyboardMargin = 0;
 
 static NSMutableDictionary *_instanceOfTransitionClasses = nil;
 
